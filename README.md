@@ -71,3 +71,6 @@ Habilitar CORS en el backend para http://localhost:5173, o http://localhost:4173
 ## Diseño / Figma
 
 Figma / Diseño: https://www.figma.com/design/ZBAY63yaF6lSLG79SWx5TG/toDo?node-id=0-1&t=957fvBONLvCPQ0mB-1
+
+## Despliegue estatico en AWS
+![alt text](image.png)
