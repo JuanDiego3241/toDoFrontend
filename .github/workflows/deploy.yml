@@ -20,6 +20,10 @@ jobs:
           npm ci
           npm run build
 
+      - name: List directory for debugging
+        run: ls -R .
+        
+
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v2
         with:
